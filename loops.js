@@ -1,5 +1,5 @@
 function forLoop( myArr ){
-  for( let a=0; a<10; a++){
+  for( let a=0; a<25; a++){
 
      myArr[a]= `"I am ${a} strange loop${a === 0 ? '' : 's'}."`;
 
